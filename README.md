@@ -6,3 +6,4 @@ npm install
 
 # Run project
 npm run dev
+port: localhost:3030
